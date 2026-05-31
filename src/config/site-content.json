@@ -69,6 +69,13 @@
 			"value": "https://x.com/astroptis",
 			"label": "X",
 			"order": 4
+		},
+		{
+			"id": "button-1780243608367",
+			"type": "juejin",
+			"value": "juejin.cn",
+			"label": "",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": true,
