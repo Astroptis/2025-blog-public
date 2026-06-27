@@ -5,7 +5,7 @@
 		"username": "Astroptis"
 	},
 	"theme": {
-		"colorBrand": "#2fcbe7",
+		"colorBrand": "#5793FE",
 		"colorPrimary": "#5B423F",
 		"colorSecondary": "#8b7667",
 		"colorBrandSecondary": "#eec25e",
@@ -15,9 +15,11 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#8fdbe9",
-		"#fffef8"
+		"#5D359C",
+		"#7F9BE2",
+		"#4E83D1",
+		"#A81A2D",
+		"#39DD8D"
 	],
 	"artImages": [
 		{
