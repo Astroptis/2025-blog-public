@@ -28,8 +28,8 @@
 		"width": 350,
 		"height": 286,
 		"order": 5,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": 235,
+		"offsetY": -57,
 		"enabled": true
 	},
 	"musicCard": {
@@ -45,8 +45,8 @@
 		"width": 315,
 		"height": 48,
 		"order": 6,
-		"offsetX": -110,
-		"offsetY": 175,
+		"offsetX": -85,
+		"offsetY": 178,
 		"enabled": true
 	},
 	"shareCard": {
@@ -61,8 +61,8 @@
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": -487,
-		"offsetY": 180,
+		"offsetX": -496,
+		"offsetY": 192,
 		"enabled": true
 	},
 	"writeButtons": {
@@ -77,8 +77,8 @@
 		"width": 280,
 		"height": 434,
 		"order": 2,
-		"offsetX": null,
-		"offsetY": null,
+		"offsetX": -508,
+		"offsetY": -290,
 		"enabled": true
 	},
 	"likePosition": {
